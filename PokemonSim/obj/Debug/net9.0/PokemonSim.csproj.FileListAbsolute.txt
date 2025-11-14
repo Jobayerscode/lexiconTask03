@@ -1,0 +1,14 @@
+A:\MSI\Lexicon\task03\PokemonSim\bin\Debug\net9.0\PokemonSim.exe
+A:\MSI\Lexicon\task03\PokemonSim\bin\Debug\net9.0\PokemonSim.deps.json
+A:\MSI\Lexicon\task03\PokemonSim\bin\Debug\net9.0\PokemonSim.runtimeconfig.json
+A:\MSI\Lexicon\task03\PokemonSim\bin\Debug\net9.0\PokemonSim.dll
+A:\MSI\Lexicon\task03\PokemonSim\bin\Debug\net9.0\PokemonSim.pdb
+A:\MSI\Lexicon\task03\PokemonSim\obj\Debug\net9.0\PokemonSim.GeneratedMSBuildEditorConfig.editorconfig
+A:\MSI\Lexicon\task03\PokemonSim\obj\Debug\net9.0\PokemonSim.AssemblyInfoInputs.cache
+A:\MSI\Lexicon\task03\PokemonSim\obj\Debug\net9.0\PokemonSim.AssemblyInfo.cs
+A:\MSI\Lexicon\task03\PokemonSim\obj\Debug\net9.0\PokemonSim.csproj.CoreCompileInputs.cache
+A:\MSI\Lexicon\task03\PokemonSim\obj\Debug\net9.0\PokemonSim.dll
+A:\MSI\Lexicon\task03\PokemonSim\obj\Debug\net9.0\refint\PokemonSim.dll
+A:\MSI\Lexicon\task03\PokemonSim\obj\Debug\net9.0\PokemonSim.pdb
+A:\MSI\Lexicon\task03\PokemonSim\obj\Debug\net9.0\PokemonSim.genruntimeconfig.cache
+A:\MSI\Lexicon\task03\PokemonSim\obj\Debug\net9.0\ref\PokemonSim.dll
