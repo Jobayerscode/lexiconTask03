@@ -25,5 +25,3 @@ SpeciesRepository – Starter evolution lines with thresholds.
 🖥️ UI.Console
 
 ConsoleUI – Menus, rendering, input, training, and battle loops.
-
-Program – Composition root that wires everything up.
